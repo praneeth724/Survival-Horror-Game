@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\survival horror  assets by csgd\\survival horror  assets by csgd\\assets\\scripts\\weapon manager\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon manager\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430915EE-E45B-6AC1-174A-B4B39DCE203D}|Assembly-CSharp-firstpass.csproj|c:\\users\\user\\downloads\\survival horror  assets by csgd\\survival horror  assets by csgd\\assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430915EE-E45B-6AC1-174A-B4B39DCE203D}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\assets\\scripts\\flashlight\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flashlight\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\assets\\scripts\\flashlight\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flashlight\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\assets\\scripts\\nightvission\\nightvissionzoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nightvission\\nightvissionzoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\assets\\scripts\\nightvission\\lookmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nightvission\\lookmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\assets\\scripts\\light house\\lightrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE965C-E3EB-E2D6-E7F7-5777297A68C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\light house\\lightrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\Weapon Manager\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Weapon Manager\\WeaponManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\Weapon Manager\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\Weapon Manager\\WeaponManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:35:54.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAIwB8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:20:12.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlashLightController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\FlashLight\\FlashLightController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FlashLight\\FlashLightController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\FlashLight\\FlashLightController.cs",
+              "RelativeToolTip": "Assets\\scripts\\FlashLight\\FlashLightController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:07:55.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlashLight.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\FlashLight\\FlashLight.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FlashLight\\FlashLight.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\FlashLight\\FlashLight.cs",
+              "RelativeToolTip": "Assets\\scripts\\FlashLight\\FlashLight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:05:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LookMode.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\NightVission\\LookMode.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\NightVission\\LookMode.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\NightVission\\LookMode.cs",
+              "RelativeToolTip": "Assets\\scripts\\NightVission\\LookMode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:01:32.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NightVissionZoom.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\NightVission\\NightVissionZoom.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\NightVission\\NightVissionZoom.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\NightVission\\NightVissionZoom.cs",
+              "RelativeToolTip": "Assets\\scripts\\NightVission\\NightVissionZoom.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:48:44.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LightRotation.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\Light House\\LightRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Light House\\LightRotation.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Survival Horror  Assets by CSGD\\Survival Horror  Assets by CSGD\\Assets\\scripts\\Light House\\LightRotation.cs",
+              "RelativeToolTip": "Assets\\scripts\\Light House\\LightRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:18.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
